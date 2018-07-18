@@ -1,0 +1,6 @@
+PassengerBaseURI /
+PassengerAppRoot  /home/ieeekera/aksc.ieee-link.org/
+ 
+ 
+PassengerAppType node
+PassengerStartupFile index.js
